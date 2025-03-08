@@ -90,7 +90,8 @@ export default function Home() {
             <MainDiv>
 
                 <MainImageDiv>
-                    <ProfileImage src="../../public/profile.jpeg" alt="Colton Connolly"/>
+                    {/* <ProfileImage src="../../public/profile.jpeg" alt="Colton Connolly"/> */}
+                    <ProfileImage src="/profile.jpeg" alt="Colton Connolly"/>
                 </MainImageDiv>
 
                 <MainTextDiv>
